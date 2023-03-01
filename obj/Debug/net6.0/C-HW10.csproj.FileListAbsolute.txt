@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\bin\Debug\net6.0\C-HW10.exe
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\bin\Debug\net6.0\C-HW10.deps.json
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\bin\Debug\net6.0\C-HW10.runtimeconfig.json
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\bin\Debug\net6.0\C-HW10.dll
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\bin\Debug\net6.0\C-HW10.pdb
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.dll
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\refint\C-HW10.dll
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.pdb
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\C-HW10.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GB Tester\csharp\examples\C-HW10\obj\Debug\net6.0\ref\C-HW10.dll
